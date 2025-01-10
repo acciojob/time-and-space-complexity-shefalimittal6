@@ -1,2 +1,1 @@
-// JavaScript can be added here for future enhancements
-console.log("Time and Space Complexity concepts loaded.");
+// No JavaScript needed for this task, but it can be used for future enhancements if required.

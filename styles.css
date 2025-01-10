@@ -1,18 +1,25 @@
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 20px;
     background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
 }
 
 h1 {
-    color: #333;
+    color: #007bff;
+    font-size: 2.5em;
 }
 
 p {
-    margin: 10px 0;
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-top: 20px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 b {
-    color: #d9534f; /* Bootstrap danger color for emphasis */
+    color: #d9534f;
 }
